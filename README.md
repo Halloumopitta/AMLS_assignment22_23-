@@ -12,4 +12,4 @@ ELEC0134 Assignment Instructions:
 Notes:
 1. There is no separate main.ipynb file. Instead the test datasets are loaded and their accuracy is tested in the corresponding task files
 2. All the task .ipynb files should  be located in the same directory as the .os method is used to locate and load the image data and labels and for that reason no additional folers were created
-3. Packages required: Numpy,pandas,os,PIL,skimage,PyTorch
+3. Packages required: Numpy,pandas,os,PIL,skimage,PyTorch,time
